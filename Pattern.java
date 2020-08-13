@@ -54,8 +54,7 @@ public class Pattern {
 			
 			count=count+2;
 		System.out.println();
-end this
-again doing
+this is the reason
 		}
 
 	}
