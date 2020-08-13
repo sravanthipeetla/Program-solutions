@@ -55,6 +55,7 @@ public class Pattern {
 			count=count+2;
 		System.out.println();
 this is the reason
+master
 		}
 
 	}
