@@ -50,8 +50,10 @@ public class Pattern {
 			z=z-(c+(c-1));
 			c=0;
 			num--;
-			
-			
+
+sravanthi1
+sravanthi2
+
 			count=count+2;
 		System.out.println();
 		}
